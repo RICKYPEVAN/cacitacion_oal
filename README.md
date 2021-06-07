@@ -1,2 +1,2 @@
-# capacitacion_oal
-pagina oficial de capacitacion
+# oalcapacitacion
+pagina para capacitacion
